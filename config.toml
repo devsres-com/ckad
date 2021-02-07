@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "/ckad"
 title = "CKAD 2021"
 
 enableRobotsTXT = true
