@@ -1,12 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CKAD 2021 – CKAD 2021</title>
-    <link>/</link>
+    <link>/ckad/</link>
     <description>Recent content on CKAD 2021</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/ckad/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +14,10 @@
     
     <item>
       <title>Blog: Alpha 0.0.0</title>
-      <link>/blog/2021/02/07/alpha-0.0.0/</link>
+      <link>/ckad/blog/2021/02/07/alpha-0.0.0/</link>
       <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2021/02/07/alpha-0.0.0/</guid>
+      <guid>/ckad/blog/2021/02/07/alpha-0.0.0/</guid>
       <description>
         
         
@@ -29,10 +28,10 @@
     
     <item>
       <title>Blog: CKAD 2021 online!</title>
-      <link>/blog/2021/02/07/ckad-2021-online/</link>
+      <link>/ckad/blog/2021/02/07/ckad-2021-online/</link>
       <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2021/02/07/ckad-2021-online/</guid>
+      <guid>/ckad/blog/2021/02/07/ckad-2021-online/</guid>
       <description>
         
         
@@ -44,10 +43,10 @@
     
     <item>
       <title>Blog: Introdução disponível</title>
-      <link>/blog/2021/02/07/introdu%C3%A7%C3%A3o-dispon%C3%ADvel/</link>
+      <link>/ckad/blog/2021/02/07/introdu%C3%A7%C3%A3o-dispon%C3%ADvel/</link>
       <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2021/02/07/introdu%C3%A7%C3%A3o-dispon%C3%ADvel/</guid>
+      <guid>/ckad/blog/2021/02/07/introdu%C3%A7%C3%A3o-dispon%C3%ADvel/</guid>
       <description>
         
         
