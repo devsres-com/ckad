@@ -1,5 +1,5 @@
 baseURL = "/kubefu"
-title = "CKAD 2021"
+title = "I know... kube-fu!"
 
 enableRobotsTXT = true
 
@@ -53,8 +53,8 @@ id = "UA-177944209"
 
 [languages]
 [languages.pt]
-title = "CKAD 2021"
-description = "CKAD 2021: uma odisseia Dev no espaço Kubernetes"
+title = "I know kube-fu"
+description = "Kube-fu"
 languageName ="Portuguese"
 # Weight used for sorting.
 weight = 1
@@ -101,9 +101,9 @@ version = "0.0"
 url_latest_version = "https://example.com"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/devsres-com/ckad/"
+github_repo = "https://github.com/devsres-com/kubefu/"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-github_project_repo = "https://github.com/devsres-com/ckad/"
+github_project_repo = "https://github.com/devsres-com/kubefu/"
 
 # Specify a value here if your content directory is not in your repo's root directory
 # github_subdir = ""
@@ -141,7 +141,7 @@ footer_about_disable = false
 # enable = true
 # # The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
 # yes = 'Obrigado!</a>.'
-# no = 'Como posso melhorar? Poste uma issue em <a href="https://github.com/devsres-com/ckad/issues/new"></a>.'
+# no = 'Como posso melhorar? Poste uma issue em <a href="https://github.com/devsres-com/kubefu/issues/new"></a>.'
 
 # Adds a reading time to the top of each doc.
 # If you want this feature, but occasionally need to remove the Reading time from a single page, 
@@ -186,7 +186,7 @@ enable = false
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
 	name = "GitHub"
-	url = "https://github.com/devsres-com/ckad"
+	url = "https://github.com/devsres-com/kubefu"
 	icon = "fab fa-github"
         desc = "Página do curso - problemas ou dúvidas, deixe uma Issue."
 [[params.links.developer]]
